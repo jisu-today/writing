@@ -90,8 +90,14 @@ small {
 }
 
 
-
-
 @media screen and (max-width: 704px) {
+
+.page-content {
+padding: 20px;
+}
+
+table, p {
+    font-size: 11pt;
+}
 
 }
