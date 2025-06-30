@@ -4,28 +4,13 @@
  box-sizing: border-box;
 }
 
-/*body {
-    margin: 20px;
-    background-color: lightyellow;
-}
-
-.date {
-    width: 200px;
-}
-
-.title {
-    width: 500px;
-}
-
-*/
-
 body {
   display: flex;
   background-color: white;
   margin: 0;
   font-family: Arial, sans-serif;
   height: 100vh;
-  background-color: #fff8dc;
+  background-color: lightyellow;
 }
 
 /* 왼쪽 바인더 마진 */
